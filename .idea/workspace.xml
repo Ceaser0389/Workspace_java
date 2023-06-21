@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7af71bd0-14dd-4eb7-9d3e-c9cfad55b9cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/A12_progFuncional/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/A12_progFuncional/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A12_progFuncional/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/A12_progFuncional/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mintty.2023-06-13_10-14-44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app1/Projec1.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app1/Projec1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app2/projec2.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app2/projec2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app3/projec3.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app3/projec3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app4/project4.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app4/project4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app5/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app5/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app6/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app6/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app6/Program2.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app6/Program2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app6/Program3.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app6/Program3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app6/Program4.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app6/Program4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app6/Program5.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app6/Program5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app7/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app7/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app7/Program2.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app7/Program2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app7/Program3.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app7/Program3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/app8/TesteUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/app8/TesteUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/com/folha/Deducao.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/com/folha/Deducao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/com/folha/Holerite.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/com/folha/Holerite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entidades/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entidades/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entidades/Produto2.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entidades/Produto2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entidades/Produto3.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entidades/Produto3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entidades/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entidades/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Aeronave.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Aeronave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/CorreioEletronico.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/CorreioEletronico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/FolhaPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/FolhaPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/IMC.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/IMC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Paciente.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Paciente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Preco.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Preco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/Proprietario.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/Proprietario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projec1/build/classes/entities/VagaEmprego.class" beforeDir="false" afterPath="$PROJECT_DIR$/projec1/build/classes/entities/VagaEmprego.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RHoyCJtnNfu70Tg7wpvTaMZtWT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Projetos/workspace_java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af71bd0-14dd-4eb7-9d3e-c9cfad55b9cd" name="Changes" comment="" />
+      <created>1686916628394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686916628394</updated>
+    </task>
+    <servers />
+  </component>
+</project>
